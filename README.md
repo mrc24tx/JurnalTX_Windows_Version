@@ -1,5 +1,11 @@
 # JurnalTX - Journaling & Note Taking App Windows Version
 
+<img width="200" height="200" alt="logojurnaltx" src="https://github.com/user-attachments/assets/3aba1629-acb1-4aac-ae92-1756546cc593" style="padding-top:25px; padding-bottom:24px" />
+
+<br>
+<br>
+
+
 Untuk pencatatan dan journaling dalam proyek, tugas, maupun diary. Bagi anda yang menganggap dokumentasi itu pentung dan keteraturan itu prioritas.
 
 Ini merupakan versi windows dari aplikasi yang sama dengan versi linux.
