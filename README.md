@@ -23,8 +23,7 @@ Ini merupakan versi windows dari aplikasi yang sama dengan versi linux.
 - Baca -- **[JurnalTX Versi Windows INDONESIAN WIKI](https://github.com/mrc24tx/JurnalTX_Windows_Version/wiki/Beranda)**.
 
 
-## Download
-
-Latest:
-- Version 1.1.0 - **[https://github.com/mrc24tx/JurnalTX-Windows-Version/releases/tag/v1.1.0](https://github.com/mrc24tx/JurnalTX_Windows_Version/releases/tag/v1.1.0)**.
+## Download Link
+Latest Version 1.1.0:
+- Download Page - **[https://github.com/mrc24tx/JurnalTX-Windows-Version/releases/tag/v1.1.0](https://github.com/mrc24tx/JurnalTX_Windows_Version/releases/tag/v1.1.0)**.
 
