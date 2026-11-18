@@ -19,8 +19,8 @@ Ini merupakan versi windows dari aplikasi yang sama dengan versi linux.
 ---
 
 ## Fitur / Features
-- Read -- **[JurnalTX Windows Version WIKI](https://github.com/mrc24tx/JurnalTX_Windows_Version/wiki)** - English.
-- Baca -- **[JurnalTX Versi Windows WIKI](https://github.com/mrc24tx/JurnalTX_Windows_Version/wiki/Beranda)** - Indonesian.
+- Read -- **[JurnalTX Windows Version ENGLISH WIKI](https://github.com/mrc24tx/JurnalTX_Windows_Version/wiki)**.
+- Baca -- **[JurnalTX Versi Windows INDONESIAN WIKI](https://github.com/mrc24tx/JurnalTX_Windows_Version/wiki/Beranda)**.
 
 
 ## Download
