@@ -8,11 +8,15 @@
 
 Untuk pencatatan dan journaling dalam proyek, tugas, maupun diary. Bagi anda yang menganggap dokumentasi itu pentung dan keteraturan itu prioritas.
 
+Deteksi file assets orphan (file tak tertaut), jurnal dan catatan tersimpan dalam fie markdown.
+
 Ini merupakan versi windows dari aplikasi yang sama dengan versi linux.
 
 ---
 
 *A desktop application for note-taking and journaling in projects, assignments, or diaries. For those of you who consider documentation to be a key and orderliness is a priority.*
+
+*Orphan assets files detection, journals and notes are saved on markdown files.*
 
 *This is a windows app with the same features like the linux version. Tested well on windows 11.*
 
